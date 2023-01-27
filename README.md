@@ -8,14 +8,14 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SyedAbdullahHashmi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdullah-hashmi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdullah.hashmi24@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/educated_mazdoor)
+
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://encryptsoul.com/) -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shahzadafridia1) -->
 &nbsp;
 
 <h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
-  <samp>A highly resourceful android developer. Proficient in Java, Kotlin and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+  <samp>I am a Senior Software Developer with experience in a variety of programming languages and technologies. I have a strong background in software development, with a focus on creating high-performance and scalable solutions. In addition to my technical skills, I am also experienced in blogging, content writing, research, and marketing. I am always looking for new and challenging projects to work on and am excited to continue growing my skills and knowledge in the field. On Github, you will find my personal and professional projects, contributions and commits.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SyedAbdullahHashmi" alt="https://github.com/SyedAbdullahHashmi" />
@@ -26,11 +26,21 @@ You can use the website to generate badges: https://shields.io/
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
 ### A few highlights:
-- 🛠 &nbsp; I’m currently working with Android, Kotlin,Jetpack Compose, Java, Graphql, ROOM, and firebase.
-- 🚀 &nbsp; I’m always learning to keep myself updated with latest tech.
-- 💬 &nsbp; I love solving problems, checkout my problem solving [repo](https://github.com/SyedAbdullahHashmi/CodingChallenges)
-- 📫 &nbsp; How to reach me: abdullah.hashmi24@gmail.com
-- 📝 &nbsp; Checkout my [Resume]([https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf](https://drive.google.com/file/d/1WXl718T6Hp5orxjaCt1tRPioyfpRapV4/view?usp=sharing)).
+- 5+ years of experience in software development
+- I’m currently working with Android, Kotlin,Jetpack Compose, Java, Graphql, ROOM, and firebase.
+- I’m always learning to keep myself updated with latest tech.
+- Experience with blogging, content writing, research, and marketing
+- Proven track record of delivering high-quality software on time and on budget
+- Strong problem-solving skills and ability to work well in a team environment
+- Passionate about staying up-to-date with the latest technologies and industry trends
+- Strong focus on code quality and maintainability
+- Proven ability to develop and implement effective software solutions
+- Skilled in working with both Agile and Waterfall methodologies
+- Strong analytical and communication skills
+- Committed to delivering the best possible user experience in all of my projects
+- I love solving problems, checkout my problem solving [repo](https://github.com/SyedAbdullahHashmi/CodingChallenges)
+- How to reach me: abdullah.hashmi24@gmail.com
+- Checkout my [Resume]([https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf](https://drive.google.com/file/d/1WXl718T6Hp5orxjaCt1tRPioyfpRapV4/view?usp=sharing)).
 - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="syed-abdullah-hashmi" height="20" width="20" /> Checkout my [Profile](https://stackoverflow.com/users/8528771/syed-abdullah-hashmi).
   
 <hr>
